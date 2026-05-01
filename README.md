@@ -1,21 +1,13 @@
-# Estudo HTML - Listas
+# Estudo de Listas em HTML
 
-Projeto para estudo de listas em HTML.
+Projeto pra aprender os tipos de lista em HTML.
 
-## Conteúdo
+## Conceitos estudados
 
-- Listas ordenadas (`<ol>`)
-- Listas não ordenadas (`<ul>`)
-- Listas aninhadas
+- **Lista ordenada** — `<ol>` com itens numerados
+- **Lista não ordenada** — `<ul>` com marcadores
+- **Lista aninhada** — listas dentro de listas
 
-## Tecnologias
+## Arquivos
 
-- HTML5
-
-## Visualizar
-
-Abra o arquivo `index.html` no navegador.
-
----
-
-Projeto de estudo — [Romário Miranda](https://github.com/mirandaromario09)
+- `index.html` — página principal
