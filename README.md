@@ -11,3 +11,6 @@ Projeto pra aprender os tipos de lista em HTML.
 ## Arquivos
 
 - `index.html` — página principal
+
+---
+[Ver online](https://mirandaromario09.github.io/estudo-html-listas)
